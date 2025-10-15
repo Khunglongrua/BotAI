@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+optuna
+requests
+websockets
+matplotlib
+python-telegram-bot
+discord-webhook
